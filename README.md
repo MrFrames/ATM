@@ -10,7 +10,7 @@ TODO:
   <li> Improve the layout of the history panel, better process for updating table? -  Table in new window?
   <li> Research password storage and login protocols - update if neccessary.
   <li> Write simple examples of code required to complete project: </ul>
-  <ul start="100">
+  <ol start="100">
     <li> Password with salt, login function
     <li> Unit testing implimentation
     <li> Creating simple app (Frame)
@@ -21,4 +21,4 @@ TODO:
     <li> Creating a Template panel, feeding different variables to different instances
     <li> Creating a graph with wxplotframe
     <li> Creating, populating & updating a table within a panel
-</ul>
+</ol>
