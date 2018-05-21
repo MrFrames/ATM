@@ -10,7 +10,7 @@ TODO:
   <li> Improve the layout of the history panel, better process for updating table? -  Table in new window?
   <li> Research password storage and login protocols - update if neccessary.
   <li> Write simple examples of code required to complete project: </ul>
-  <ul offset="100">
+  <ul style="margin 0px 0px 0px 10">
     <li> Password with salt, login function
     <li> Unit testing implimentation
     <li> Creating simple app (Frame)
