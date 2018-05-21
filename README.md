@@ -5,20 +5,17 @@ I built this as a practice project, to experiment with the wxpython GUI and to p
 
 TODO:
 
-<ul>
-  <li> Add dates to account history data.
-  <li> Improve the layout of the history panel, better process for updating table? -  Table in new window?
-  <li> Research password storage and login protocols - update if neccessary.
-  <li> Write simple examples of code required to complete project: </ul>
-  <ul style="margin 0px 0px 0px 10">
-    <li> Password with salt, login function
-    <li> Unit testing implimentation
-    <li> Creating simple app (Frame)
-    <li> Action bindings
-    <li> Creating panels & changing between them
-    <li> Layout using sizers
-    <li> Inputting data via txtCtrl, check boxes & passing data to functions
-    <li> Creating a Template panel, feeding different variables to different instances
-    <li> Creating a graph with wxplotframe
-    <li> Creating, populating & updating a table within a panel
-</ul>
+> Add dates to account history data.
+> Improve the layout of the history panel, better process for updating table? -  Table in new window?
+> Research password storage and login protocols - update if neccessary.
+> Write simple examples of code required to complete project:
+    > Password with salt, login function
+    > Unit testing implimentation
+    > Creating simple app (Frame)
+    > Action bindings
+    > Creating panels & changing between them
+    > Layout using sizers
+    > Inputting data via txtCtrl, check boxes & passing data to functions
+    > Creating a Template panel, feeding different variables to different instances
+    > Creating a graph with wxplotframe
+    > Creating, populating & updating a table within a panel
